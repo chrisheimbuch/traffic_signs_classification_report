@@ -6,7 +6,7 @@ In the first notebook, I performed the EDA, which can be found in notebook #1 (e
 
 This project demonstrates a practical, real-world application that can be deployed in real world scenarios, such as self driving vehicles, traffic management systems, mobile apps for drivers (similar to google maps), robotics such as delivery robots, traffic law enforcement, toll collection zones, and many more!
 
-- **[Documents](./documents):** includes PDF documents of the inferential EDA, technical machine learning notebook, and slides used in class presentation.
+- **[Documents](./documents):** includes PDF documents of the EDA, technical machine learning & deep learning notebook, and slides used in class presentation.
 
 - **[Source](./source):** includes notebook #1 eda source code, notebook #2 machine learning & deep learning source code, and associated files with the project.
 
